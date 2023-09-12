@@ -1,0 +1,175 @@
+body {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+  }
+  
+  h2 {
+    color: #000B8D;
+  }
+  
+  h3 {
+    color: #000B8D;
+  }
+
+
+  
+  footer {
+    padding: 20px;
+    color: white;
+    background-color: #000B8D;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  p.header {
+    text-align: left;
+  }
+  
+  p.header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  p.secondheader {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+  }
+  
+  p.jumbotron {
+    text-align: center;
+    margin-top: -2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    font-weight: bold;
+  }
+  
+  .profile header {
+    text-align: center;
+  }
+  
+  .about-us {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  .choosecars {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    padding: 10px;
+    background: #fff;
+    border: 0px solid #fff;
+  }
+  
+  .choosecars:hover {
+    padding: 15px;
+    background: #ffffff;
+    border: 1px solid rgb(255, 255, 255);
+    cursor: hand;
+  }
+  
+  .profile img {
+    width: 200px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .jumbotron {
+    font-size: 20px;
+    padding: 30px;
+    background-color: #ffffff;
+    text-align: center;
+    color: #000000;
+    margin-top: 5%;
+    margin-bottom: -1%;
+  }
+  
+  .redbullracing {
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  nav {
+    background-color: #000B8D;
+    padding: 5px;
+    position: sticky;
+    position: fixed;
+    top: 0;
+    text-align: right;
+    width: 100%;
+    height: 65px;
+  }
+  
+  header {
+    background-color: #000B8D;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .jumbotron {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  
+  .jumbotron p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  nav {
+    background-color: #000B8D;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ffff;
+  }
+  
+  a:hover {
+    color: #ffffff;
+  }
