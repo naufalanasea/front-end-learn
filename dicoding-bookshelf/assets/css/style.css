@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+input,
+button {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+input,
+button {
+  font-size: 25px;
+}
+
+.head_bar {
+  padding: 12px;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  background-color: #037A68;
+  color: #ecf0f1;
+}
+
+.head_bar img {
+  text-align: left;
+  justify-content: left;
+  padding-right: 10px;
+}
+
+main {
+  max-width: 800px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.input_section {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  border: 5px solid #2c3e50;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.input_section > h2 {
+  text-align: left;
+  color: #037A68;
+}
+
+.input_section > form > .input {
+  margin: 8px 0;
+}
+
+.input_section > form > button {
+  background-color: #037A68;
+  color: #ecf0f1;
+  border: 0;
+  border-radius: 10px;
+  display: block;
+  width: 100%;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.input_section > form > button > span {
+  font-weight: bold;
+}
+
+.input_section > form > .input > input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.input_section > form > .input > label {
+  color: #037A68;
+  font-weight: bold;
+}
+
+.input_section > form > .input_inline {
+  margin: 12px 0;
+  display: flex;
+  align-items: left;
+}
+.input_section > form > .input_inline p {
+  font-style: italic;
+  font-size: small;
+}
+
+.input_section > form > .input_inline > label {
+  color: #037A68;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.search_section {
+  margin: 25px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding: 25px;
+  border: 5px solid #2c3e50;
+  border-radius: 10px;
+}
+
+.search_section > h2 {
+  color: #037A68;
+}
+
+.search_section > form {
+  padding: 25px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 10px;
+}
+
+.search_section > form > label {
+  display: flex;
+  align-items: left;
+  color: #037A68;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.search_section > form > input {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.search_section > form > button {
+  background-color: #037A68;
+  color: #ecf0f1;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.book_shelf {
+  margin: 25px 0 0 0;
+  border: 5px solid #2c3e50;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.book_shelf > h2 {
+  color: #037A68;
+}
+
+.book_shelf > .book_list {
+  padding: 25px;
+}
+
+.book_shelf > .book_list > .book_item {
+  padding: 8px 25px 25px 25px;
+  border: 5px solid #2c3e50;
+  border-radius: 10px;
+  margin: 10px 0;
+  background-color: #ecf0f1;
+}
+
+.book_shelf > .book_list > .book_item > h3,
+p {
+  margin: 10px 0;
+}
+
+.book_shelf > .book_list > .book_item > button {
+  border: 0;
+  padding: 9px;
+  margin: 0 10px 0 0;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: smaller;
+}
+
+.book_shelf > .book_list > .book_item > button:hover {
+  opacity: 3;
+}
+
+.green {
+  background-color: #1D19AC;
+  color: #ecf0f1;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.red {
+  background-color: #e74c3c;
+  color: #ecf0f1;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.footer {
+  background-color: #037A68;
+  padding: 20px;
+  color: #ecf0f1;
+}
+
+.footer a {
+  color: #ecf0f1;
+  text-decoration: none;
+}
+
+
+
