@@ -161,7 +161,7 @@ main {
 .book_shelf > .book_list > .book_item {
   padding: 8px 25px 25px 25px;
   border: 5px solid #2c3e50;
-  border-radius: 10px;
+  border-radius: 5px;
   margin: 10px 0;
   background-color: #ecf0f1;
 }
