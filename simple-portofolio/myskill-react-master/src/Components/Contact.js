@@ -118,12 +118,12 @@ class Contact extends Component {
                         </div>
 
                         <div className="widget widget_tweets">
-                            <h4 className="widget-title">Latest Tweets</h4>
+                            <h4 className="widget-title">Tweets Terbaru</h4>
                             <ul id="twitter">
                             <li>
                                 <span>
-                                Saya bahagia kemarin <br/>
-                                <a href="./">http://t.co/CGIrdxIlI3</a>
+                                Selalu Senyum <br/>
+                                <a href="./">
                                 </span>
                                 <b>
                                 <a href="./">2 Days Ago</a>
@@ -131,7 +131,7 @@ class Contact extends Component {
                             </li>
                             <li>
                                 <span>
-                                semoga kamu baik-baik saja yaa<br/>
+                                good<br/>
                                 <a href="./">http://t.co/CGIrdxIlI3</a>
                                 </span>
                                 <b>
