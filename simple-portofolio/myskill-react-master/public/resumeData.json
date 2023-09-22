@@ -1,0 +1,180 @@
+{
+    "main": {
+        "name" : "Naufal Anas",
+        "description": "I am a Front End Web Developer",
+        "image":"profilepic.jpg",
+        "github":"https://github.com/naufalanasea",
+        "project":"https://github.com/naufalanasea",
+        "bio": "Ini adalah section biografi aku",
+        "contactmessage":"Hello, here I am",
+        "email": "myemail@gmail.com",
+        "phone": "888-888-8888",
+        "address":{
+            "street":"Jalan Jalan",
+            "city":"Yogyakarta",
+            "state":"DIY",
+            "zip": "33525"
+        },
+        "website": "https://github.com/naufalanasea",
+        "resumedownload":"https://github.com/naufalanasea",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://github.com/naufalanasea",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/mutia.rahmatun",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/naufalanasea",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Skills",
+        "education" : [
+            {
+                "school": "Universitas Ahmad Dahlan",
+                "degree": "Bachelor degree of Computer Science",
+                "graduated": "June 2025",
+                "description" : "Universitas Ahmad Dahlan"
+            },
+            {
+                "school": "SMA Negeri 2 Yogyakarta",
+                "degree": "Science",
+                "graduated": "June 2021",
+                "description": "I am joining computer olympiad"
+            }
+        ],
+        "work": [
+            {
+                "company" : "Not Working Yet",
+                "title" : "Frontend Engineer",
+                "years": "",
+                "description": "Creating a website and maintenance"
+            }, {
+                "company": "",
+                "title": "",
+                "years": "",
+                "description": ""
+            }
+        ],
+        "skills": [
+            {
+                "name" : "C",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "45%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "65%"
+            },
+            {
+                "name": "Java",
+                "level": "65%"
+            },
+            {
+                "name": "PHP",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "",
+                "category": "",
+                "image": "01.jpg",
+                "url": ""
+            },
+            {
+                "title":"",
+                "category":"",
+                "image":"02.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"03.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"04.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"05.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"06.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"01.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"02.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"03.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"04.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"05.jpg",
+                "url":""
+              },
+              {
+                "title":"",
+                "category":"",
+                "image":"06.jpg",
+                "url":""
+              }
+        ]
+    }
+}
